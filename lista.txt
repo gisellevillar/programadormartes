@@ -1,3 +1,6 @@
 galletitas
 frutas
 limpieza
+arroz
+fideos
+pescado
